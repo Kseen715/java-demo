@@ -1,0 +1,2 @@
+main-class: main.java.HelloWorld
+class-path: bin/main/java

@@ -1,0 +1,13 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>HelloWorld</groupId>
+  <artifactId>test</artifactId>
+  <version>1.0.0</version>
+
+  <build>
+     <defaultGoal>compile</defaultGoal>
+     <sourceDirectory>src</sourceDirectory>
+     <outputDirectory>bin</outputDirectory>
+     <finalName>${project.artifactId}-${project.version}</finalName>
+  </build>
+</project>
