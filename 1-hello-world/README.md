@@ -1,5 +1,11 @@
 # Hello World
 
+To build `JAR` file:
+
+```
+make jar
+```
+
 ## Versions
 
 `java -version`:
