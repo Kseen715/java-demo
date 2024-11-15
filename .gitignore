@@ -2,3 +2,5 @@ build/
 output/
 bin/
 target/
+.vscode/
+.mvn/
