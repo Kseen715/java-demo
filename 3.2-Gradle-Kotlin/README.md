@@ -1,9 +1,9 @@
-# Gradle with Groovy
+# Gradle with Kotlin
 
 To initialize a Gradle project with Groovy, run:
 
 ```
-gradle init --type java-application --dsl groovy
+gradle init --type java-application --dsl kotlin
 ```
 
 To build the project, run:
