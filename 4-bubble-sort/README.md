@@ -1,6 +1,6 @@
 # Bubble Sort algorithm
 
-This is a simple implementation of the Bubble Sort algorithm in Kotlin. You can find source code here: [App.java](app/src/main/java/org/example/App.java), [BubbleSort.java](app/src/main/java/org/example/BubbleSort.java).
+This is a simple implementation of the Bubble Sort algorithm. You can find source code here: [App.java](app/src/main/java/org/example/App.java), [BubbleSort.java](app/src/main/java/org/example/BubbleSort.java).
 
 Output:
 
